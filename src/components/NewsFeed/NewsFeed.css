@@ -1,0 +1,11 @@
+.news-feed {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 768px) {
+    .news-feed {
+        flex-direction: column;
+    }
+}

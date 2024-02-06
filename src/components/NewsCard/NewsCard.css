@@ -1,0 +1,15 @@
+.news-card {
+    background-color: bisque;
+    padding: 10px;
+    width: 33%;
+}
+
+.news-card img {
+    width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    .news-card {
+        width: 100%;
+    }
+}

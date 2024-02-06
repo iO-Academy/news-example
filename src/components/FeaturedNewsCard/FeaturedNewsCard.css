@@ -1,0 +1,9 @@
+.featured-news-card {
+    width: 100%;
+    background-color: lemonchiffon;
+    padding: 10px;
+}
+
+.featured-news-card img {
+    width: 100%;
+}
