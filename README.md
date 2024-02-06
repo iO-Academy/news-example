@@ -8,6 +8,10 @@ cd into the repo
 
 `cd news-example`
 
+install react
+
+`npm install`
+
 start react
 
 `npm run dev`
