@@ -1,8 +1,13 @@
-# React + Vite
+# News example
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To install clone this repository
 
-Currently, two official plugins are available:
+`git clone git@github.com:iO-Academy/news-example.git`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+cd into the repo
+
+`cd news-example`
+
+start react
+
+`npm run dev`
